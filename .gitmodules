@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "selecta"]
+	path = selecta
+	url = https://github.com/phmcc/selecta
 [submodule "summata"]
 	path = summata
 	url = https://github.com/phmcc/summata
